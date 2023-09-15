@@ -1,0 +1,5 @@
+fastapi==0.68.0
+uvicorn==0.15.0
+boto3==1.28.40
+requests==2.31.0
+# Add other dependencies as needed
